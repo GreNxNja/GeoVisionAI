@@ -1,4 +1,4 @@
-# AI-Based Frame Interpolation, Video Generation, and Display System for WMS Services
+# GeoVisionAI- AI-Based Frame Interpolation, Video Generation, and Display System for WMS Services
 
 ## Overview
 
